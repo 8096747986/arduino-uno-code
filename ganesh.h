@@ -18,6 +18,4 @@ void loop() {
     blinkLED(250); 
   } else {
     blinkLED(500); 
-  }
-source code link
-https://github.com/ 
+  } 
